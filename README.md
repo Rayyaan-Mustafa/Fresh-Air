@@ -1,6 +1,6 @@
 # Fresh Air
  POV: You use Vim for some odd reason and have been slaving away in your CLI for the past 5 hours. Your eyes are red, neck is hunched, all your muscles are tense, and you're probably losing your mind.\
- Looks like its time to go out on that daily tech bro walk and get some fresh air. Check the weather in your location before you go out!
+ Looks like its time to go out on that daily tech bro walk and get some fresh air. Check the weather from within your terminal before you go out!
 
  ## How to use
  Install the FreshAir Package from [https://pypi.org/project/FreshAir](https://pypi.org/project/FreshAir/)
